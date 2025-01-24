@@ -90,9 +90,9 @@
     "url": "https://kunst-kasten.de",
     "icon": "https://icons.duckduckgo.com/ip3/kunst-kasten.de.ico",
     "slug": "kunst-kasten-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -102,6 +102,7 @@
     "timeMonth": 774,
     "timeYear": 820,
     "dailyMinutesDown": {
+      "2025-01-24": 0,
       "2024-05-06": 46
     }
   }
