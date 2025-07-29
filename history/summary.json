@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/akjs.io.ico",
     "slug": "akjs-io",
     "status": "down",
-    "uptime": "77.82%",
+    "uptime": "77.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.48%",
+    "uptimeYear": "49.38%",
     "time": 869,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2025-07-29": 4,
+      "2025-07-29": 501,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -215,7 +215,7 @@
     "slug": "xrm-rocks",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "95.75%",
+    "uptimeDay": "97.64%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.62%",
@@ -241,7 +241,7 @@
     "slug": "pmnr-xrm-rocks",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "95.75%",
+    "uptimeDay": "97.64%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.62%",
@@ -283,9 +283,9 @@
     "url": "https://kunst-kasten.de",
     "icon": "https://icons.duckduckgo.com/ip3/kunst-kasten.de.ico",
     "slug": "kunst-kasten-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -294,6 +294,8 @@
     "timeWeek": 1054,
     "timeMonth": 895,
     "timeYear": 828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-29": 0
+    }
   }
 ]
