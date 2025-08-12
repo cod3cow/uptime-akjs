@@ -3,9 +3,9 @@ owner: cod3cow # Your GitHub organization or username, where this repository liv
 repo: uptime-akjs # The name of this repository
 
 sites:
-  - name: xrm.rocks
+  - name: xmr.rocks
     url: https://xmr.rocks
-  - name: pmnr.xrm.rocks
+  - name: pmnr.xmr.rocks
     url: https://pmnr.xmr.rocks
   - name: lookrativ.de
     url: https://lookrativ.de
