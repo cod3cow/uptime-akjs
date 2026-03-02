@@ -1,6 +1,6 @@
 # [📈 Live Status](https://cod3cow.github.io/uptime-akjs): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Alexander Schmidt](https://akjs.io), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/cod3cow/uptime-akjs/workflows/Uptime%20CI/badge.svg)](https://github.com/ASchmidt1024/uptime-akjs/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/cod3cow/uptime-akjs/workflows/Response%20Time%20CI/badge.svg)](https://github.com/ASchmidt1024/uptime-akjs/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -28,5 +28,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Alexander Schmidt](https://akjs.io)
+- Code: [MIT](./LICENSE)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
