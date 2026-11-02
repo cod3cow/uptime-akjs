@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kashilo.com.ico",
     "slug": "kashilo-com",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 834,
-    "timeDay": 933,
-    "timeWeek": 806,
-    "timeMonth": 829,
+    "timeDay": 737,
+    "timeWeek": 789,
+    "timeMonth": 817,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2026-09-02": 194
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 809,
-    "timeDay": 803,
-    "timeWeek": 774,
-    "timeMonth": 895,
-    "timeYear": 796,
+    "timeDay": 1055,
+    "timeWeek": 822,
+    "timeMonth": 901,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2026-09-02": 194
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 771,
-    "timeDay": 738,
-    "timeWeek": 739,
-    "timeMonth": 729,
-    "timeYear": 769,
+    "time": 772,
+    "timeDay": 967,
+    "timeWeek": 773,
+    "timeMonth": 735,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2026-09-02": 193
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 906,
-    "timeDay": 1005,
-    "timeWeek": 879,
-    "timeMonth": 877,
-    "timeYear": 901,
+    "time": 907,
+    "timeDay": 1158,
+    "timeWeek": 939,
+    "timeMonth": 884,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2026-09-02": 193
     }
@@ -90,10 +90,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
-    "time": 880,
-    "timeDay": 791,
-    "timeWeek": 732,
-    "timeMonth": 752,
+    "time": 881,
+    "timeDay": 961,
+    "timeWeek": 779,
+    "timeMonth": 758,
     "timeYear": 862,
     "dailyMinutesDown": {
       "2026-05-28": 977,
